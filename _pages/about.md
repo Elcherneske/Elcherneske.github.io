@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral student majoring in data science and engineering at Peking University, supervised by Weinan E. I am graduated from Zhejiang University with a bachelor's degree in Chemistry and Software Engineering in 2024.
+I am a doctoral student majoring in data science and engineering at Peking University, supervised by [Weinan E](https://scholar.google.com/citations?hl=zh-CN&user=i2mOt14AAAAJ). I am graduated from Zhejiang University with a bachelor's degree in Chemistry and Software Engineering in 2024.
 
 I am interested in using AI to improve the efficiency of scientific research. My research interests include:
 
@@ -25,7 +25,7 @@ Email: ycliao@zju.edu.cn
 
 Key works: 
 
-- LIFGO: A modular laser-induced fluorescence detection system based on plug-in blocks (https://www.sciencedirect.com/science/article/abs/pii/S0039914021009851)
+- [LIFGO: A modular laser-induced fluorescence detection system based on plug-in blocks](https://www.sciencedirect.com/science/article/abs/pii/S0039914021009851)
 
-- Improved Projection-free Online Continuous Submodular Maximization (https://arxiv.org/abs/2305.18442)
+- [Improved Projection-free Online Continuous Submodular Maximization](https://arxiv.org/abs/2305.18442)
 
